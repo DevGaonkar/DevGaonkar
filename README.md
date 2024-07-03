@@ -5,18 +5,17 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there, I'm Dev Gaonkar! 👋
 
-### 🌟 Full-Stack Web Developer  |   AI & ML enthusiast
+### 🌟 Full-Stack Web Developer  
 
 ---
 
 
-Welcome to my GitHub profile! I'm a passionate full-stack web developer who loves building robust and scalable web applications. I enjoy working with modern technologies and am always striving to improve my skills, including diving into AIML (Artificial Intelligence and Machine Learning).
+Welcome to my GitHub profile! I'm a passionate full-stack web developer who loves building robust and scalable web applications. I enjoy working with modern technologies and am always striving to improve my skills.
   
 ## 🚀 About Me
 
 - 💻 I enjoy coding and problem-solving.
 - 🌐 Experience in both front-end and back-end development.
-- 🤖 AIML enthusiast
 - 🛠️ I work with a variety of technologies and tools.
 - 🎓 3rd year IT student.
 
