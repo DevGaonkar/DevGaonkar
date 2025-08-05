@@ -56,6 +56,5 @@
 [![Email](https://img.shields.io/badge/Gmail-devpgaonkar3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devpgaonkar3@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dev%20Gaonkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-gaonkar/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-devpgaonkar3-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/devpgaonkar3/)
-[![GitHub](https://img.shields.io/badge/GitHub-DevGaonkar-181717?style=for-the-badge&logo=github)](https://github.com/DevGaonkar)
 
 ---
